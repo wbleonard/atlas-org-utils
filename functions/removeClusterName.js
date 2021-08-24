@@ -1,6 +1,3 @@
-/*
- * Removes a cluster name from the list of clusters to not pause.
- */ 
 exports = function(arg){
   var collection = context.services.get("mongodb-atlas").db("clustermanager").collection("nopause");
   
