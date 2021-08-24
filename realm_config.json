@@ -1,0 +1,7 @@
+{
+    "app_id": "utils-ppdem",
+    "config_version": 20210101,
+    "name": "utils",
+    "location": "US-VA",
+    "deployment_model": "LOCAL"
+}

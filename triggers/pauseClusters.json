@@ -1,0 +1,10 @@
+{
+    "id": "611d25277b62e2a66e4e7521",
+    "name": "pauseClusters",
+    "type": "SCHEDULED",
+    "config": {
+        "schedule": "0 0 * * *"
+    },
+    "function_name": "pauseClusters",
+    "disabled": false
+}

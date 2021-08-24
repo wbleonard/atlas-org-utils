@@ -1,0 +1,39 @@
+[
+    {
+        "name": "addClusterName",
+        "private": false
+    },
+    {
+        "name": "removeClusterName",
+        "private": false
+    },
+    {
+        "name": "getClusters",
+        "private": false,
+        "run_as_system": true
+    },
+    {
+        "name": "canPause",
+        "private": false
+    },
+    {
+        "name": "modifyCluster",
+        "private": true
+    },
+    {
+        "name": "getProjects",
+        "private": true
+    },
+    {
+        "name": "pauseClusters",
+        "private": true
+    },
+    {
+        "name": "getProjectClusters",
+        "private": true
+    },
+    {
+        "name": "pauseCluster",
+        "private": true
+    }
+]

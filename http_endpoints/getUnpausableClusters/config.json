@@ -1,0 +1,6 @@
+{
+    "name": "getUnpausableClusters",
+    "type": "http",
+    "config": {},
+    "version": 1
+}
