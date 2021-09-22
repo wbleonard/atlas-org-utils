@@ -1,5 +1,5 @@
 /*
- * Adds a cluster to the list of clusters that should not be paused. 
+ * Adds a cluster to the list of clusters that should not be paused.
  */
 exports = function(arg){
   console.log(arg);

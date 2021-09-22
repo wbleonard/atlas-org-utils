@@ -3,8 +3,8 @@
  */
 exports = async function(pause){
   
-  if (typeof paused == 'undefined') {
-    paused = true    // The trigger can't pass an argument.
+  if (typeof pause == 'undefined') {
+    pause = true    // The trigger can't pass an argument.
   }
   
   const projects = await context.functions.execute("getProjects");
